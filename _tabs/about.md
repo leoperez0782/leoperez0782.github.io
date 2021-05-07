@@ -4,7 +4,6 @@ icon: fas fa-info
 order: 4
 ---
 
-# Acerca de mi
 
 Apasionado por la programación y el yoga, dos disciplinas que creo se complementan muy bien. 
 Si bien descubrí mi pasión por ambas ya pasados mis 34 años, desde hace tiempo las practico con gran entusiasmo.
