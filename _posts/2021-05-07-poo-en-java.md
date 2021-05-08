@@ -5,9 +5,6 @@ categories: [JAVA, OOP]
 tags: [java, oop]
 ---
 
-
-# Programación orientada a objetos con Java
-
 ## Intro
 
 En este, mi primer post, comenzare hablando sobre los conceptos básicos de la programación orientada a objetos.
