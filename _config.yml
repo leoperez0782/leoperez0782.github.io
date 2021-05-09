@@ -8,7 +8,7 @@ theme: jekyll-theme-chirpy
 baseurl: ''
 
 # the HTML language tag › https://www.w3.org/International/questions/qa-choosing-language-tags
-lang: en-US
+lang: es-ES
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: America/Montevideo
@@ -74,10 +74,10 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: ''
+img_cdn: 'https://res.cloudinary.com/'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://res.cloudinary.com/dkfdfq4vh/image/upload/v1620536156/profpick/oqi19fk7zxdl09e5clbq.jpg
+avatar: https://res.cloudinary.com/dkfdfq4vh/image/upload/v1620538315/profpick/fwnqqa4efndcafipgp7r.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
