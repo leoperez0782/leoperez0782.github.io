@@ -43,6 +43,11 @@ La POO\(Programación orientada a objetos\) es un paradigma surgido en los años
 - Definición de Comportamiento:
     El comportamiento de un objeto es el conjunto de operaciones que el objeto puede ejecutar. Esta dado entonces por las operaciones definidas en su clase.
 
-Bueno, esto ha sido una pequeña y breve introducción al paradigma orientado a objetos. Cualquier duda me puedes escribir. Espero que esto pueda ser de utilidad, y con el correr de los días seguiré agregando contenido. Dejo un [repo](https://github.com/leoperez0782/oop-java) con ejemplos de los temas aquí tratados.
+- Algunos comentarios más sobre Clases y objetos:
+    En los lenguajes que presentan modificadores de acceso como Java, es importante encapsular los atributos. Eso implica que no deben ser accedidos directamente desde fuera de la clase que fueron declarados, pero si deben estar disponibles para todos los miembros de la clase, esto se logra declarando los atributos como privados \(modificador de acceso private \) . Para que se pueda acceder al valor de los atributos desde fuera de la clase, se utilizan los métodos get y set, que permiten acceder \(get\) y modificar \(set\) el valor de estos. Estos métodos se declaran públicos \(modificador de acceso public\). No es necesario declarar ambos si no se precisan, por ejemplo, se puede declarar un atributo de solo lectura, haciendo el atributo privado y permitiendo solo acceder al mismo mediante el método get.
+    Para terminar sobre los modificadores de acceso, en Java existen 4: default\(accessible desde el mismo package\), private\(accesible solo desde misma clase\), protected\(accesible para clases, subclases, y package\) y public que es accesible desde cualquier parte. En el próximo post, se va a explicar lo de las subclase o clases heredadas.
+
+
+Bueno, esto ha sido una pequeña y breve introducción al paradigma orientado a objetos. Cualquier duda me puedes escribir. Espero que esto pueda ser de utilidad, y con el correr de los días seguiré agregando contenido. Dejo un [repositorio](https://github.com/leoperez0782/oop-java) con ejemplos de los temas aquí tratados.
 
 
